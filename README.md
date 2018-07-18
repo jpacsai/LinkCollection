@@ -5,9 +5,15 @@
 - [Free course collections](https://github.com/jpacsai/LinkCollection/blob/master/learning.md#learning-paths)
 - Articles
 
+### Project ideas
+- Articles
+
 ### HTML
 
 ### CSS
+- Flexbox
+- Grid
+- Naming conventions
 
 ### Design
 - Color palettes
@@ -24,7 +30,7 @@
 - Gulp
 - Visual Studio Code plugins
 
-### JavaScript
+### JavaScript (vanilla)
 
 ### React
 
