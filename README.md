@@ -31,6 +31,7 @@
 - Visual Studio Code plugins
 
 ### JavaScript (vanilla)
+- Coding challenges
 
 ### React
 
