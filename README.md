@@ -2,7 +2,7 @@
 🔗 Series of organized lists of resources
 
 ### Learning Web Development
-- Courses
+- [Free course collections](https://github.com/jpacsai/LinkCollection/blob/master/learning.md#learning-paths)
 - Articles
 
 ### HTML
