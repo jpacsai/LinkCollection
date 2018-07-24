@@ -11,7 +11,7 @@
 
 ### HTML
 
-### [CSS](https://github.com/jpacsai/LinkCollection/edit/master/Collections/css.md)
+### [CSS](https://github.com/jpacsai/LinkCollection/blob/master/Collections/css.md)
 - Flexbox
 - Grid
 - Naming conventions
@@ -42,7 +42,7 @@
 - Tools
 - Articles
 
-### [JavaScript (vanilla)](https://github.com/jpacsai/LinkCollection/edit/master/Collections/vanillaJS.md)
+### [JavaScript (vanilla)](https://github.com/jpacsai/LinkCollection/blob/master/Collections/vanillaJS.md)
 - Tools
 - References
 - Coding challenges
