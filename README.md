@@ -28,10 +28,12 @@
 - Books
 - Articles
 
-### Assets
+### [Assets](https://github.com/jpacsai/LinkCollection/blob/master/Collections/assets.md)
 - Images
-- Fonts
-- Lorem Ipsum
+- Vectors
+- Icons
+- ~~Fonts~~
+- ~~Lorem Ipsum~~
 
 ### Tools
 - Git
