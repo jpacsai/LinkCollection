@@ -1,7 +1,7 @@
 # LinkCollection
 🔗 Series of organized lists of resources
 
-### [Learning Web Development](https://github.com/jpacsai/LinkCollection/blob/master/Collections/learning.md)
+### [Learning Paths: Web Development, Computer Science](https://github.com/jpacsai/LinkCollection/blob/master/Collections/learning.md)
 - Free course collections, Articles
 
 ### [Project ideas](https://github.com/jpacsai/LinkCollection/blob/master/Collections/projects.md)
